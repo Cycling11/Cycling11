@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cycling11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Minecraftcyclergamer
+- 👀 I’m interested in cycling,minecraft
+- 🌱 I’m currently learning minecraft
+- 💞️ I’m looking to collaborate on anyone
+- 📫Reach me on tiktok,twitter,Instagram,snapchat
 
 <!---
 Cycling11/Cycling11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
